@@ -1,1 +1,0 @@
-"C:\Program Files\VideoLAN\VLC\vlc.exe" "PATH TO VIDEO.mp4" --fullscreen --loop --no-osd --no-mouse-events
