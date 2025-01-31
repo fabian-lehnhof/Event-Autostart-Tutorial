@@ -19,9 +19,9 @@ Fabian
 
 The main steps are as follows:
 
-1. [Automatically start up the PC as soon as it receives power.](##Schritt-1---PC-Auto-Power-On)
-2. [Preparing software or files for autostart](##software-vorbereitungen)
-3. [Create a shortcut in the Autostart folder](##Schritt-3---Autostart-einrichten)
+1. [Automatically start up the PC as soon as it receives power.](#step-1-pc-auto-power-on)
+2. [Preparing software or files for autostart](#step-2-software-preparations)
+3. [Create a shortcut in the Autostart folder](#step-3-set-up-autostart)
 
 The details and exact settings are documented below.
 
@@ -83,7 +83,7 @@ You can then check whether the settings were effective by unplugging the PC and 
 
 Here are instructions for various programmes that are frequently used
 
-* [Powerpoint](#power-pointt)
+* [Powerpoint](#power-point)
 * [Firefox Kiosk Mode](#firefox-kiosk-mode)
 * [Chrome Kiosk Mode](#chrome-kiosk-mode)
 * [VLC Single Video Loop](#vlc-single-video-loop)
