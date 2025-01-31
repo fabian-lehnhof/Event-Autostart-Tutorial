@@ -83,10 +83,10 @@ You can then check whether the settings were effective by unplugging the PC and 
 
 Here are instructions for various programmes that are frequently used
 
-* [Powerpoint](##Power-Point)
-* [Firefox Kiosk Mode](##Firefox-Kiosk-Mode)
-* [Chrome Kiosk Mode](##Chrome-Kiosk-Mode)
-* [VLC Single Video Loop](##VLC-Single-Video-Loop)
+* [Powerpoint](#power-pointt)
+* [Firefox Kiosk Mode](#firefox-kiosk-mode)
+* [Chrome Kiosk Mode](#chrome-kiosk-mode)
+* [VLC Single Video Loop](#vlc-single-video-loop)
 
 ## Power Point
 
