@@ -19,9 +19,9 @@ Fabian
 
 Im wesentlichen gibt es folgende Schritte:
 
-1. [Den PC automatisch Hochfahren lassen sobald er Strom erhält.](##Schritt-1---PC-Auto-Power-On)
-2. [Software oder Dateien für den Autostart vorbereiten](##software-vorbereitungen)
-3. [Eine Verknüpfung im Autostart Ordner anlegen](##Schritt-3---Autostart-einrichten)
+1. [Den PC automatisch Hochfahren lassen sobald er Strom erhält.](#schritt-1---pc-auto-power-on)
+2. [Software oder Dateien für den Autostart vorbereiten](#schritt-2---software-vorbereitungen)
+3. [Eine Verknüpfung im Autostart Ordner anlegen](#schritt-3---autostart-einrichten)
 
 Die Details und genauen Einstellungen sind weiter unten dokumentiert.
 
@@ -83,10 +83,10 @@ Anschließend kann überprüft werden ob die Einstellungen wirksam waren in dem 
 
 Hier sind Anleitungen für verschieden Programme hinterlegt die häufig verwendet werden
 
-* [Powerpoint](##Power-Point)
-* [Firefox Kiosk Mode](##Firefox-Kiosk-Mode)
-* [Chrome Kiosk Mode](##Chrome-Kiosk-Mode)
-* [VLC Single Video Loop](##VLC-Single-Video-Loop)
+* [Powerpoint](#power-point)
+* [Firefox Kiosk Mode](#firefox-kiosk-mode)
+* [Chrome Kiosk Mode](#chrome-kiosk-mode)
+* [VLC Single Video Loop](#vlc-single-video-loop)
 
 ## Power Point
 
