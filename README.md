@@ -19,9 +19,9 @@ Fabian
 
 The main steps are as follows:
 
-1. [Automatically start up the PC as soon as it receives power.](#step-1-pc-auto-power-on)
-2. [Preparing software or files for autostart](#step-2-software-preparations)
-3. [Create a shortcut in the Autostart folder](#step-3-set-up-autostart)
+1. [Automatically start up the PC as soon as it receives power.](#step-1---pc-auto-power-on)
+2. [Preparing software or files for autostart](#step-2---software-preparations)
+3. [Create a shortcut in the Autostart folder](#step-3---set-up-autostart)
 
 The details and exact settings are documented below.
 
