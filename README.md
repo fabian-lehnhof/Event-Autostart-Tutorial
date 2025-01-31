@@ -15,7 +15,7 @@ This is my first public repository - bear with me! I look forward to contributio
 Best regards
 Fabian
 
-## Grundlagen
+## Basic Idea
 
 The main steps are as follows:
 
